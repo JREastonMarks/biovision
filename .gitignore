@@ -1,0 +1,6 @@
+target/
+.settings/
+.project
+.classpath
+src/.vscode
+src/main/java/edu/uh/compsci/eastonmark/jeremy/sandbox
